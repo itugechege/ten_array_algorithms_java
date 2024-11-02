@@ -1,2 +1,2 @@
 # ten_array_algorithms_java
-same as repo-name
+Something to try end jumpstart my brain
